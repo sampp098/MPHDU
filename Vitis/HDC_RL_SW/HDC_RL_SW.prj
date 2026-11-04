@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="HDC_RL_SW" location="C:/VITIS_PRJ/HDC_RL_SW" platform="C:/VITIS_PRJ/HDC_RL_HW/export/HDC_RL_HW/HDC_RL_HW.xpfm" platformUID="xilinx:k26c::0.0(custom)" systemProject="HDC_RL_SW_system" sysConfig="HDC_RL_HW" runtime="cpp" cpu="standalone_psu_cortexa53_0" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="ceb7f97bde5231ad4d8e22f6ff32e88c">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.2038202054">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.809788007" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
